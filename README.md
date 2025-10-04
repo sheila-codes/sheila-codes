@@ -12,12 +12,6 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 
----
-
-### 📈 Stats
-![Sheila's GitHub stats](https://github-readme-stats.vercel.app/api?username=sheila-codes&show_icons=true&theme=radical)
-
----
 
 💌 **Conecta conmigo:**  
-[LinkedIn](https://www.linkedin.com/in/tu-perfil) · [Portfolio](https://tuweb.dev)
+[LinkedIn](https://www.linkedin.com/in/sheilaparadela/
